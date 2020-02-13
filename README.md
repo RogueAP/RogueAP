@@ -9,3 +9,5 @@ The solution should contain the following elements:
 * Filter enumerated pairs to only company controlled SSIDs 
 * For filtered pairs exclude known/authorized MACs/BSSIDs 
 * Report to the Security Operation center (SOC) all unknown MACs/BSSIDs as rogue APs
+
+We'll use Python
