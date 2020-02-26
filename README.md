@@ -8,6 +8,6 @@ The solution should contain the following elements:
 * A service (daemon) or a scheduled job scanning  the 802.11x channels to enumerate active SSIDs and MACs/BSSIDs pairs
 * Filter enumerated pairs to only company controlled SSIDs 
 * For filtered pairs exclude known/authorized MACs/BSSIDs 
-* Report to the Security Operation center (SOC) all unknown MACs/BSSIDs as rogue APs
-
-We'll use Python
+* Report to the Security Operation center (SOC) all unknown MACs/BSSIDs as rogue 
+Requirements:
+-Python3
